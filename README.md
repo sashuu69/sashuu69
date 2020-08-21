@@ -24,6 +24,21 @@
 ## GitHub Statistics
 
 <img align="left" alt="Sashuu6's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sashuu6&show_icons=true&hide_border=false" />
+<br><br><br><br><br><br><br><br><br><br>
+
+## My Brothers
+
+<table>
+<tr>
+<td align="center">
+<a href="https://github.com/theonlyakhil">
+<img src="https://avatars1.githubusercontent.com/u/25252405?s=460&u=dff982fcedeedad5a382c77b19527fb1fef85db1&v=4" width="100px;" alt="Ir1d"/>
+</a>
+<br />
+<a href="https://github.com/theonlyakhil">Akhil A B</a>
+</td>
+</tr>
+</table>
 <!--
 **sashuu6/sashuu6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
