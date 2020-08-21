@@ -1,15 +1,15 @@
 # Welcome to my Github Profile
 
-### Hi there 👋, I am Sashwat K
+## Hi there 👋, I am Sashwat K
 
 
 [![Website](https://img.shields.io/website?label=sashuu6.github.io&style=for-the-badge&url=https%3A%2F%2Fsashuu6.github.io)](https://sashuu6.github.io)
 [![Website](https://img.shields.io/website?label=sashwat.in&style=for-the-badge&url=https%3A%2F%2Fsashwat.in)](https://www.sashwat.in)
 
 
-### I'm working as CAD Infrastructure DevOps Engineer at Xilinx
+## I'm working as CAD Infrastructure DevOps Engineer at Xilinx
 
-### Languages and Tools I work on:
+## Languages and Tools I work on:
 
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -20,6 +20,10 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
+
+## GitHub Statistics
+
+<img align="left" alt="Sashuu6's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sashuu6&show_icons=true&hide_border=false" />
 <!--
 **sashuu6/sashuu6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
