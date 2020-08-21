@@ -32,10 +32,26 @@
 <tr>
 <td align="center">
 <a href="https://github.com/theonlyakhil">
-<img src="https://avatars1.githubusercontent.com/u/25252405?s=460&u=dff982fcedeedad5a382c77b19527fb1fef85db1&v=4" width="100px;" alt="Ir1d"/>
+<img src="https://avatars1.githubusercontent.com/u/25252405?s=460&u=dff982fcedeedad5a382c77b19527fb1fef85db1&v=4" width="100px;" alt="Akhil A B"/>
 </a>
 <br />
 <a href="https://github.com/theonlyakhil">Akhil A B</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/karuvally">
+<img src="https://avatars3.githubusercontent.com/u/10782888?s=460&u=69ea28dff9a066f6506309973e228570b591e65f&v=4" width="100px;" alt="Aswin Babu Karuvally"/>
+</a>
+<br />
+<a href="https://github.com/karuvally">Aswin Babu Karuvally</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/tharunpkarun">
+<img src="https://avatars0.githubusercontent.com/u/38854729?s=460&u=922c1e6d9c22e8bde2300f93f323764ad67b7cef&v=4" width="100px;" alt="Ir1d"/>
+</a>
+<br />
+<a href="https://github.com/tharunpkarun">Tharun P Karun</a>
 </td>
 </tr>
 </table>
