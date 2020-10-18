@@ -21,7 +21,7 @@
 
 ## GitHub Statistics
 
-<img align="left" alt="Sashuu6's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sashuu6&show_icons=true&hide_border=false" />
+<img align="left" alt="Sashuu6's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sashuu6&show_icons=true&hide_border=false&count_private=true" />
 <br><br><br><br><br><br><br><br><br><br>
 
 ## My Brothers
