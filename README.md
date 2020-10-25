@@ -1,11 +1,10 @@
 ## Hi there 👋, I am Sashwat K
 
 
-[![Website](https://img.shields.io/website?label=sashuu6.github.io&style=for-the-badge&url=https%3A%2F%2Fsashuu6.github.io)](https://sashuu6.github.io)
 [![Website](https://img.shields.io/website?label=sashwat.in&style=for-the-badge&url=https%3A%2F%2Fsashwat.in)](https://www.sashwat.in)
 
 
-## I'm working as CAD Infrastructure DevOps Engineer at Xilinx
+## I'm working as CAD Engineer at Xilinx
 
 ## Languages and Tools I work on:
 
