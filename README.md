@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
+<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" alt="dinotocat">
 
 [![Website](https://img.shields.io/website?label=sashwat.in&style=for-the-badge&url=https%3A%2F%2Fsashwat.in)](https://www.sashwat.in)
 
