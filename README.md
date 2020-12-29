@@ -2,7 +2,8 @@
 
 <div align="center">
 
-<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/dinotocat.png" width="230" alt="dinotocat">
+<img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="50%" />
+
 
 [![Website](https://img.shields.io/website?label=sashwat.in&style=for-the-badge&url=https%3A%2F%2Fsashwat.in)](https://www.sashwat.in)
 
@@ -72,3 +73,9 @@
 </td>
 </tr>
 </table>
+
+<h2 align="center"> Checkout my latest project... </h2>
+<p align="center">
+<b>Already Pinned Down for you sire!</b></br>
+<img alt="Astronaut pointing downwards GIF" src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif">
+</p>
