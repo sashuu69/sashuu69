@@ -23,14 +23,6 @@
     </a>
 </p>
 
-<h2 align="center"> Please checkout my development stack.. </h2>
-<p align="center">
-  <a href="https://stackshare.io/sashuu6/my-stack">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="sashuu6 :: StackShare" />
-  </a>
-</p>
-
-
 ## GitHub Statistics
 
 <img align="left" alt="Sashuu6's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sashuu6&show_icons=true&hide_border=false&count_private=true" />
