@@ -1,4 +1,6 @@
-<img align="center" alt="Name gif" src="https://github.com/sharannyobasu/sharannyobasu/blob/master/Hello(1).gif"/>
+<div align="center">
+    <img alt="Name gif" src="https://github.com/sharannyobasu/sharannyobasu/blob/master/Hello(1).gif"/>
+</div>
 
 <h2 align="center">Sashwat K </h2>
 
