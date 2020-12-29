@@ -1,8 +1,10 @@
-<img src="https://raw.githubusercontent.com/joetancy/joetancy/master/wave%20(1).jpg"/>
+<div align="center">
 
 ![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Hello(1).gif)
 
-<h2 align="center"> Hi there 👋, I am Sashwat K </h2>
+</div>
+
+<h2 align="center">Sashwat K </h2>
 
 <div align="center">
 
@@ -83,4 +85,3 @@
 <b>Already Pinned Down for you sire!</b></br>
 <img alt="Astronaut pointing downwards GIF" src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif">
 </p>
-<img src="https://raw.githubusercontent.com/joetancy/joetancy/master/wave.jpg"/>
