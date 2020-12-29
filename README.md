@@ -1,22 +1,35 @@
-## Hi there 👋, I am Sashwat K
-
+<h2 align="center"> Hi there 👋, I am Sashwat K </h2>
 
 [![Website](https://img.shields.io/website?label=sashwat.in&style=for-the-badge&url=https%3A%2F%2Fsashwat.in)](https://www.sashwat.in)
 
+<h2 align="center"> I'm working as CAD Engineer at Xilinx </h2>
 
-## I'm working as CAD Engineer at Xilinx
+<h2 align="center"> Please reach me at.. </h2>
+<p align="center">
+    <a href="https://in.linkedin.com/in/sashwat-k-25b30a11b">
+        <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Sashwat's LinkedIn Profile" height="30" width="30">
+    </a>
+    <a href="https://stackoverflow.com/story/sashuu6">
+        <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Sashwat's Stack Overflow Story" height="30" width="30">
+    </a>
+    <a href="https://www.facebook.com/sashuu6">
+        <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Sashwat's Facebook Profile" height="30" width="30">
+    </a>
+    <a href="https://www.twitter.com/blackisashu">
+        <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Sashwat's Twitter Profile" height="30" width="30">
+    </a>
+    <a href="https://www.instagram.com/sashuu6/">
+        <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Sashwat's Instagram Profile" height="30" width="30">
+    </a>
+</p>
 
-## Languages and Tools I work on:
+<h2 align="center"> Please checkout my development stack.. </h2>
+<p align="center">
+  <a href="https://stackshare.io/sashuu6/my-stack">
+    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="sashuu6 :: StackShare" />
+  </a>
+</p>
 
-<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Arduino" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
-<br><br>
 
 ## GitHub Statistics
 
