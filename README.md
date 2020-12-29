@@ -1,8 +1,4 @@
-<div align="center">
-
-![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Hello(1).gif)
-
-</div>
+<img align="center" alt="Name gif" src="https://github.com/sharannyobasu/sharannyobasu/blob/master/Hello(1).gif"/>
 
 <h2 align="center">Sashwat K </h2>
 
