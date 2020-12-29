@@ -1,8 +1,12 @@
+<img src="https://raw.githubusercontent.com/joetancy/joetancy/master/wave%20(1).jpg"/>
+
+![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Hello(1).gif)
+
 <h2 align="center"> Hi there 👋, I am Sashwat K </h2>
 
 <div align="center">
 
-<img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="50%" />
+<img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="70%" />
 
 
 [![Website](https://img.shields.io/website?label=sashwat.in&style=for-the-badge&url=https%3A%2F%2Fsashwat.in)](https://www.sashwat.in)
@@ -79,3 +83,4 @@
 <b>Already Pinned Down for you sire!</b></br>
 <img alt="Astronaut pointing downwards GIF" src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif">
 </p>
+<img src="https://raw.githubusercontent.com/joetancy/joetancy/master/wave.jpg"/>
