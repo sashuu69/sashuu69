@@ -2,6 +2,8 @@
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
+
 [![Website](https://img.shields.io/website?label=sashwat.in&style=for-the-badge&url=https%3A%2F%2Fsashwat.in)](https://www.sashwat.in)
 
 </div>
@@ -10,6 +12,9 @@
 
 <h2 align="center"> Please reach me at.. </h2>
 <p align="center">
+    <a href="mailto:hi@sashwat.in">
+        <img src="https://image.flaticon.com/icons/svg/725/725643.svg" height="30" width="30" />
+    </a>
     <a href="https://in.linkedin.com/in/sashwat-k-25b30a11b">
         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Sashwat's LinkedIn Profile" height="30" width="30">
     </a>
@@ -26,6 +31,10 @@
         <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Sashwat's Instagram Profile" height="30" width="30">
     </a>
 </p>
+
+<div align="center">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+</div>
 
 <h2 align="center"> Here are my GitHub statistics... </h2>
 <h3 align="center"> Visitor Count </h3>
