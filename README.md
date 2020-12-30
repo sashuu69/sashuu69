@@ -78,6 +78,6 @@
 
 <h2 align="center"> Checkout my latest project... </h2>
 <p align="center">
-<b>Already Pinned Down for you sire!</b></br>
+<b>The projects are already pinned for easy access..</b></br>
 <img alt="Astronaut pointing downwards GIF" src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif">
 </p>
