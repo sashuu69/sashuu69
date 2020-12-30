@@ -35,6 +35,14 @@
     </a>
 </p>
 
+<h2 align="center"> My Development Stack... </h2>
+<p align="center">
+  <a href="https://stackshare.io/sashuu6/my-stack">
+    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="sashuu6 :: StackShare" />
+  </a>
+</p>
+
+
 <div align="center">
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 </div>
