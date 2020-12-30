@@ -5,9 +5,10 @@
 <img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="70%" />
 
 
-[![Website](https://img.shields.io/website?label=sashwat.in&style=for-the-badge&url=https%3A%2F%2Fsashwat.in)](https://www.sashwat.in)
-[![Website](https://img.shields.io/website?label=blog&style=for-the-badge&url=https%3A%2F%2Fsashwat.in/blog)](https://www.sashwat.in/blog)
+[![Portfolio](https://img.shields.io/website?label=sashwat.in&style=for-the-badge&url=https%3A%2F%2Fsashwat.in)](https://www.sashwat.in)
+[![Blog](https://img.shields.io/website?label=blog&style=for-the-badge&url=https%3A%2F%2Fsashwat.in/blog)](https://www.sashwat.in/blog)
 [![CV](https://img.shields.io/website?label=CV&style=for-the-badge&url=https%3A%2F%2Fsashuu6.github.io/curriculum-vitae/sash-cv.pdf)](https://sashuu6.github.io/curriculum-vitae/sash-cv.pdf)
+[![Dino Game](https://img.shields.io/website?label=Game&style=for-the-badge&url=https%3A%2F%2Fsashuu6.github.io)](https://www.sashwat.in/blog)
 
 </div>
 
