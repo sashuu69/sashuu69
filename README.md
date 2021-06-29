@@ -1,8 +1,12 @@
-<h2 align="center"> Hi there 👋, I am Sashwat K </h2>
-
 <div align="center">
 
-<img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="70%" />
+# Hello 👋, I'm Sashwat K...
+
+## Welcome to my GitHub Profile!
+
+<img align="center" alt="Code gif" src="assets/coding-freak.gif" width="70%" />
+
+## Checkout my sites...
 
 [![Portfolio](https://img.shields.io/website?label=sashwat.in&style=for-the-badge&url=https%3A%2F%2Fsashwat.in)](https://www.sashwat.in)
 [![Blog](https://img.shields.io/website?label=blog&style=for-the-badge&url=https%3A%2F%2Fsashwat.in/blog)](https://www.sashwat.in/blog)
@@ -11,7 +15,7 @@
 
 </div>
 
-<h2 align="center"> I'm working as CAD Engineer at Xilinx </h2>
+<h2 align="center"> I'm working as CAD Infrastructure DevOps Engineer at Xilinx </h2>
 
 <h2 align="center"> Please reach me at.. </h2>
 <p align="center">
@@ -42,7 +46,6 @@
   </a>
 </p>
 
-
 <div align="center">
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 </div>
@@ -53,7 +56,7 @@
 <h3 align="center"> Top Languages </h3>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashuu6&langs_count=10&layout=compact" alt="sashuu6 :: Top Langs" /></p>
 <h3 align="center"> Profile Stats </h3>
-<p align="center"><img alt="Sashuu6's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sashuu6&show_icons=true&hide_border=false&count_private=true" /></p>
+<p align="center"><img alt="Sashuu6's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sashuu6&show_icons=true&hide_border=false&count_private=true" /></p>
 
 <h2 align="center"> My Brothers... </h2>
 <table align="center">
