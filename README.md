@@ -58,6 +58,7 @@
 <h3 align="center"> Profile Stats </h3>
 <p align="center"><img alt="Sashuu6's Github Stats I" src="https://github-readme-stats.vercel.app/api?username=sashuu6&show_icons=true&hide_border=false&count_private=true" /></p>
 <p align="center"><img alt="Sashuu6's Github Stats II" src="https://github-readme-streak-stats.herokuapp.com/?user=sashuu6" /></p>
+<p align="center"><img alt="Sashuu6's Github Stats III" src="https://activity-graph.herokuapp.com/graph?username=sashuu6&area=true&bg_color=1000000" /></p>
 
 <h2 align="center"> My Brothers... </h2>
 <table align="center">
