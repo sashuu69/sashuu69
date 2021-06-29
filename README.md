@@ -56,7 +56,8 @@
 <h3 align="center"> Top Languages </h3>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashuu6&langs_count=10&layout=compact" alt="sashuu6 :: Top Langs" /></p>
 <h3 align="center"> Profile Stats </h3>
-<p align="center"><img alt="Sashuu6's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sashuu6&show_icons=true&hide_border=false&count_private=true" /></p>
+<p align="center"><img alt="Sashuu6's Github Stats I" src="https://github-readme-stats.vercel.app/api?username=sashuu6&show_icons=true&hide_border=false&count_private=true" /></p>
+<p align="center"><img alt="Sashuu6's Github Stats II" src="https://github-readme-streak-stats.herokuapp.com/?user=sashuu6" /></p>
 
 <h2 align="center"> My Brothers... </h2>
 <table align="center">
