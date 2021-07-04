@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello 👋, I'm Sashwat K...
+# Hello 👋, I'm Sashwat K 👨🏽
 
 ## Welcome to my GitHub Profile!
 
@@ -13,9 +13,14 @@
 [![CV](https://img.shields.io/website?label=CV&style=for-the-badge&url=https%3A%2F%2Fsashuu6.github.io/curriculum-vitae/sash-cv.pdf)](https://sashuu6.github.io/curriculum-vitae/sash-cv.pdf)
 [![Dino Game](https://img.shields.io/website?label=Game&style=for-the-badge&url=https%3A%2F%2Fsashuu6.github.io)](https://sashuu6.github.io)
 
+## Checkout my GitHub Organisations...
+
+[![Sashwat's Hardware Projects](https://img.shields.io/website?label=sashwat-project-hardware&style=for-the-badge&url=https%3A%2F%2Fgithub.com/sashwat-project-hardware)](https://github.com/sashwat-project-hardware)
+[![Sashwat's DevOps Projects](https://img.shields.io/website?label=sashwat-devops-projects&style=for-the-badge&url=https%3A%2F%2Fgithub.com/sashwat-devops-projects)](hhttps://github.com/sashwat-devops-projects)
+
 </div>
 
-<h2 align="center"> I'm working as CAD Infrastructure DevOps Engineer at Xilinx </h2>
+<h2 align="center"> I'm working as CAD Engineer at Xilinx </h2>
 
 <h2 align="center"> Please reach me at.. </h2>
 <p align="center">
