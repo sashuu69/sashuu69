@@ -16,7 +16,7 @@
 ## Checkout my GitHub Organisations...
 
 [![Sashwat's Hardware Projects](https://img.shields.io/website?label=sashwat-project-hardware&style=for-the-badge&url=https%3A%2F%2Fgithub.com/sashwat-project-hardware)](https://github.com/sashwat-project-hardware)
-[![Sashwat's DevOps Projects](https://img.shields.io/website?label=sashwat-devops-projects&style=for-the-badge&url=https%3A%2F%2Fgithub.com/sashwat-devops-projects)](hhttps://github.com/sashwat-devops-projects)
+[![Sashwat's DevOps Projects](https://img.shields.io/website?label=sashwat-project-devops&style=for-the-badge&url=https%3A%2F%2Fgithub.com/sashwat-project-devops)](https://github.com/sashwat-project-devops)
 
 </div>
 
