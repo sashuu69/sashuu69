@@ -2,18 +2,18 @@
 
 # Hello 👋, I'm Sashwat K 👨🏽
 
-## Welcome to my GitHub Profile!
+## Welcome to my GitHub Profile
 
 <img align="center" alt="Code gif" src="assets/coding-freak.gif" width="70%" />
 
-## Checkout my sites...
+## Checkout my sites
 
 [![Portfolio](https://img.shields.io/website?label=sashwat.in&style=for-the-badge&url=https%3A%2F%2Fsashwat.in)](https://www.sashwat.in)
 [![Blog](https://img.shields.io/website?label=blog&style=for-the-badge&url=https%3A%2F%2Fsashwat.in/blog)](https://www.sashwat.in/blog)
 [![CV](https://img.shields.io/website?label=CV&style=for-the-badge&url=https%3A%2F%2Fsashuu6.github.io/curriculum-vitae/sash-cv.pdf)](https://sashuu6.github.io/curriculum-vitae/sash-cv.pdf)
 [![Dino Game](https://img.shields.io/website?label=Game&style=for-the-badge&url=https%3A%2F%2Fsashuu6.github.io)](https://sashuu6.github.io)
 
-## Checkout my GitHub Organisations...
+## Checkout my GitHub Organisations
 
 [![Sashwat's Hardware Projects](https://img.shields.io/website?label=sashwat-project-hardware&style=for-the-badge&url=https%3A%2F%2Fgithub.com/sashwat-project-hardware)](https://github.com/sashwat-project-hardware)
 [![Sashwat's DevOps Projects](https://img.shields.io/website?label=sashwat-project-devops&style=for-the-badge&url=https%3A%2F%2Fgithub.com/sashwat-project-devops)](https://github.com/sashwat-project-devops)
@@ -46,8 +46,11 @@
 
 <h2 align="center"> My Development Stack... </h2>
 <p align="center">
-  <a href="https://stackshare.io/sashuu6/my-stack">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="sashuu6 :: StackShare" />
+  <a href="https://stackshare.io/sashuu6/my-professional-stack">
+    <img src="https://img.shields.io/badge/Professional-Stack-0690fa.svg?style=flat" alt="sashuu6 :: StackShare :: My Professional Stack" />
+  </a>
+  <a href="https://stackshare.io/sashuu6/my-open-source-stack">
+    <img src="https://img.shields.io/badge/OpenSource-Stack-0690fa.svg?style=flat" alt="sashuu6 :: StackShare :: My Open Source Stack" />
   </a>
 </p>
 
