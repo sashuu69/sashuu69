@@ -25,22 +25,22 @@
 <h2 align="center"> Please reach me at.. </h2>
 <p align="center">
     <a href="mailto:hi@sashwat.in">
-        <img src="https://image.flaticon.com/icons/svg/725/725643.svg" height="30" width="30" />
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <a href="https://in.linkedin.com/in/sashwat-k-25b30a11b">
-        <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Sashwat's LinkedIn Profile" height="30" width="30">
+    <a href="https://in.linkedin.com/in/sashwatk">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sashwat's LinkedIn Profile" />
     </a>
     <a href="https://stackoverflow.com/story/sashuu6">
-        <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Sashwat's Stack Overflow Story" height="30" width="30">
+        <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Sashwat's Stack Overflow Story" />
     </a>
     <a href="https://www.facebook.com/sashuu6">
-        <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Sashwat's Facebook Profile" height="30" width="30">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Sashwat's Facebook Profile" />
     </a>
     <a href="https://www.twitter.com/blackisashu">
-        <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Sashwat's Twitter Profile" height="30" width="30">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Sashwat's Twitter Profile" />
     </a>
     <a href="https://www.instagram.com/sashuu6/">
-        <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Sashwat's Instagram Profile" height="30" width="30">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Sashwat's Instagram Profile" />
     </a>
 </p>
 
