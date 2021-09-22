@@ -47,10 +47,10 @@
 <h2 align="center"> My Development Stack... </h2>
 <p align="center">
   <a href="https://stackshare.io/sashuu6/my-professional-stack">
-    <img src="https://img.shields.io/badge/Professional-Stack-0690fa.svg?style=flat" alt="sashuu6 :: StackShare :: My Professional Stack" />
+    <img src="https://img.shields.io/badge/Professional-Stack-0690fa.svg?style=for-the-badge" alt="sashuu6 :: StackShare :: My Professional Stack" />
   </a>
   <a href="https://stackshare.io/sashuu6/my-open-source-stack">
-    <img src="https://img.shields.io/badge/OpenSource-Stack-0690fa.svg?style=flat" alt="sashuu6 :: StackShare :: My Open Source Stack" />
+    <img src="https://img.shields.io/badge/OpenSource-Stack-0690fa.svg?style=for-the-badge" alt="sashuu6 :: StackShare :: My Open Source Stack" />
   </a>
 </p>
 
