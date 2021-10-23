@@ -17,6 +17,7 @@
 
 [![Sashwat's Hardware Projects](https://img.shields.io/website?label=sashwat-project-hardware&style=for-the-badge&url=https%3A%2F%2Fgithub.com/sashwat-project-hardware)](https://github.com/sashwat-project-hardware)
 [![Sashwat's DevOps Projects](https://img.shields.io/website?label=sashwat-project-devops&style=for-the-badge&url=https%3A%2F%2Fgithub.com/sashwat-project-devops)](https://github.com/sashwat-project-devops)
+[![Sashwat's Software Projects](https://img.shields.io/website?label=sashwat-project-software&style=for-the-badge&url=https%3A%2F%2Fgithub.com/sashwat-project-software)](https://github.com/sashwat-project-software)
 
 </div>
 
