@@ -21,7 +21,7 @@
 
 </div>
 
-<h2 align="center"> I'm working as CAD Engineer at Xilinx </h2>
+<h2 align="center"> I'm working as Silicon Design Engineer at AMD Inc. </h2>
 
 <h2 align="center"> Please reach me at.. </h2>
 <p align="center">
@@ -30,9 +30,6 @@
     </a>
     <a href="https://in.linkedin.com/in/sashwatk">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sashwat's LinkedIn Profile" />
-    </a>
-    <a href="https://stackoverflow.com/story/sashuu6">
-        <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Sashwat's Stack Overflow Story" />
     </a>
     <a href="https://www.facebook.com/sashuu6">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Sashwat's Facebook Profile" />
@@ -43,16 +40,6 @@
     <a href="https://www.instagram.com/sashuu6/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Sashwat's Instagram Profile" />
     </a>
-</p>
-
-<h2 align="center"> My Development Stack... </h2>
-<p align="center">
-  <a href="https://stackshare.io/sashuu6/my-professional-stack">
-    <img src="https://img.shields.io/badge/Professional-Stack-0690fa.svg?style=for-the-badge" alt="sashuu6 :: StackShare :: My Professional Stack" />
-  </a>
-  <a href="https://stackshare.io/sashuu6/my-open-source-stack">
-    <img src="https://img.shields.io/badge/OpenSource-Stack-0690fa.svg?style=for-the-badge" alt="sashuu6 :: StackShare :: My Open Source Stack" />
-  </a>
 </p>
 
 <div align="center">
@@ -85,13 +72,6 @@
             </a>
             <br />
             <a href="https://github.com/karuvally">Aswin Babu Karuvally</a>
-        </td>
-        <td align="center">
-            <a href="https://github.com/tharunpkarun">
-                <img src="https://avatars0.githubusercontent.com/u/38854729?s=460&u=922c1e6d9c22e8bde2300f93f323764ad67b7cef&v=4" width="100px;" alt="Ir1d"/>
-            </a>
-            <br />
-            <a href="https://github.com/tharunpkarun">Tharun P Karun</a>
         </td>
     </tr>
 </table>
