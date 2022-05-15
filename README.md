@@ -6,39 +6,33 @@ Welcome to my GitHub profile. This is the place where I publish my OpenSource wo
 - 🛠 &nbsp;Most of my open source work involves Hardware & Software development and DevOps.
 - 💬 &nbsp;Ask me questions regarding Arduino, Python and Docker Compose.
 - 📫 &nbsp;Need help? Reach me at [@blackisashu](https://twitter.com/blackisashu).
-- 👨‍💻 &nbsp;Read more about myself at [sashwat.in](https://sashwat.in).
+- 👨‍💻 &nbsp;Know more about myself at [Sashwat's Website](https://sashwat.in), [Sashwat's Blog](https://www.sashwat.in/blog) and [Sashwat's CV](https://sashuu6.github.io/curriculum-vitae/sash-cv.pdf).
 - ⚡ &nbsp;My hobbies include Swimming and billiards.
 
 🔗 &nbsp;**Connect with me**
 
-<p align="center">
-    <a href="mailto:hi@sashwat.in">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-    <a href="https://in.linkedin.com/in/sashwatk">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sashwat's LinkedIn Profile" />
-    </a>
-    <a href="https://www.facebook.com/sashuu6">
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Sashwat's Facebook Profile" />
-    </a>
-    <a href="https://www.twitter.com/blackisashu">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Sashwat's Twitter Profile" />
-    </a>
-    <a href="https://www.instagram.com/sashuu6/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Sashwat's Instagram Profile" />
-    </a>
-</p>
+<a href="mailto:hi@sashwat.in">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://in.linkedin.com/in/sashwatk">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sashwat's LinkedIn Profile" />
+</a>
+<a href="https://www.facebook.com/sashuu6">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Sashwat's Facebook Profile" />
+</a>
+<a href="https://www.twitter.com/blackisashu">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Sashwat's Twitter Profile" />
+</a>
+<a href="https://www.instagram.com/sashuu6/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Sashwat's Instagram Profile" />
+</a>
 
-[![Portfolio](https://img.shields.io/website?label=sashwat.in&style=for-the-badge&url=https%3A%2F%2Fsashwat.in)](https://www.sashwat.in)
-[![Blog](https://img.shields.io/website?label=blog&style=for-the-badge&url=https%3A%2F%2Fsashwat.in/blog)](https://www.sashwat.in/blog)
-[![CV](https://img.shields.io/website?label=CV&style=for-the-badge&url=https%3A%2F%2Fsashuu6.github.io/curriculum-vitae/sash-cv.pdf)](https://sashuu6.github.io/curriculum-vitae/sash-cv.pdf)
-[![Dino Game](https://img.shields.io/website?label=Game&style=for-the-badge&url=https%3A%2F%2Fsashuu6.github.io)](https://sashuu6.github.io)
+🎁 &nbsp;**My Open Source Work**
 
-## Checkout my GitHub Organisations
-
-[![Sashwat's DevOps Projects](https://img.shields.io/website?label=sashwat-project-devops&style=for-the-badge&url=https%3A%2F%2Fgithub.com/sashwat-project-devops)](https://github.com/sashwat-project-devops)
-[![Sashwat's Hardware Projects](https://img.shields.io/website?label=sashwat-project-hardware&style=for-the-badge&url=https%3A%2F%2Fgithub.com/sashwat-project-hardware)](https://github.com/sashwat-project-hardware)
-[![Sashwat's Software Projects](https://img.shields.io/website?label=sashwat-project-software&style=for-the-badge&url=https%3A%2F%2Fgithub.com/sashwat-project-software)](https://github.com/sashwat-project-software)
+My open source contributios can be divided into mainly 3 categories. Based on these categories, I created 3 different GitHub organisations to divide my work. These are as follows:-
+- 🤖 &nbsp;Hardware - [Sashwat's Hardware Projects](https://github.com/sashwat-project-hardware): [![Status](https://img.shields.io/website?label=Status&style=for-the-badge&url=https%3A%2F%2Fgithub.com/sashwat-project-hardware)](https://github.com/sashwat-project-hardware)
+- 🖥 &nbsp;Software - [Sashwat's Software Projects](https://github.com/sashwat-project-software): ![Status](https://img.shields.io/website?label=Status&style=for-the-badge&url=https%3A%2F%2Fgithub.com/sashwat-project-software)
+- ⚙️ &nbsp;DevOps - [Sashwat's DevOps Projects](https://github.com/sashwat-project-devops): [![Status](https://img.shields.io/website?label=Status&style=for-the-badge&url=https%3A%2F%2Fgithub.com/sashwat-project-devops)](https://github.com/sashwat-project-devops)
 
 </div>
 
