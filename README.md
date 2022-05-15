@@ -1,6 +1,8 @@
 ### Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Nice to meet you!
 Welcome to my GitHub profile. This is the place where I publish my OpenSource work.
 
+<img align="right" alt="GIF" src="assets/coding-freak.gif" width="500" height="320" />
+
 - 🔭 &nbsp;I’m currently working as Silicon Design Engineer at Advanced Micro Devices (AMD).
 - 🌱 &nbsp;I’m currently learning Ansible, Docker, Kubernetes and Go lang.
 - 🛠 &nbsp;Most of my open source work involves Hardware & Software development and DevOps.
@@ -74,11 +76,3 @@ Do checkout their GitHub profiles as well!
         </td>
     </tr>
 </table>
-
-<details>
-  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
-  <br/>
-
-<img align="right" alt="GIF" src="assets/coding-freak.gif" width="500" height="320" />
-I am a nerd and a huge Linux enthusiast, having an knowledge on working of Linux distributions and love of hardware programming. It all started with the childhood craze for electronics that lead the way in a progressive career growth in the Computer Applications field.
-</details> 
