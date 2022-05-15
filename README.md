@@ -11,9 +11,6 @@ Welcome to my GitHub profile. This is the place where I publish my OpenSource wo
 
 🔗 &nbsp;**Connect with me**
 
-<img align="center" alt="Code gif" src="assets/coding-freak.gif" width="70%" />
-
-## Checkout my sites
 <p align="center">
     <a href="mailto:hi@sashwat.in">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -89,3 +86,6 @@ Welcome to my GitHub profile. This is the place where I publish my OpenSource wo
     <b>The projects are already pinned for easy access..</b></br>
     <img alt="Astronaut pointing downwards GIF" src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif">
 </p>
+
+
+<img align="center" alt="Code gif" src="assets/coding-freak.gif" width="70%" />
