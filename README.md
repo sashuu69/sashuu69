@@ -1,29 +1,19 @@
-<div align="center">
+### Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">!, Nice to meet you.
+Welcome to my GitHub profile. This is the place where I publish my OpenSource work.
 
-# Hello 👋, I'm Sashwat K 👨🏽
+- 🔭 &nbsp;I’m currently working as Silicon Design Engineer at Advanced Micro Devices (AMD).
+- 🌱 &nbsp;I’m currently learning Ansible, Docker, Kubernetes and Go lang.
+- 🛠 &nbsp;Most of my open source work involves Hardware & Software development and DevOps.
+- 💬 &nbsp;Ask me questions regarding Arduino, Python and Docker Compose.
+- 📫 &nbsp;Need help? Reach me at [@blackisashu](https://twitter.com/blackisashu).
+- 👨‍💻 &nbsp;Read more about myself at [sashwat.in](https://sashwat.in).
+- ⚡ &nbsp;My hobbies include Swimming and billiards.
 
-## Welcome to my GitHub Profile
+🔗 &nbsp;**Connect with me**
 
 <img align="center" alt="Code gif" src="assets/coding-freak.gif" width="70%" />
 
 ## Checkout my sites
-
-[![Portfolio](https://img.shields.io/website?label=sashwat.in&style=for-the-badge&url=https%3A%2F%2Fsashwat.in)](https://www.sashwat.in)
-[![Blog](https://img.shields.io/website?label=blog&style=for-the-badge&url=https%3A%2F%2Fsashwat.in/blog)](https://www.sashwat.in/blog)
-[![CV](https://img.shields.io/website?label=CV&style=for-the-badge&url=https%3A%2F%2Fsashuu6.github.io/curriculum-vitae/sash-cv.pdf)](https://sashuu6.github.io/curriculum-vitae/sash-cv.pdf)
-[![Dino Game](https://img.shields.io/website?label=Game&style=for-the-badge&url=https%3A%2F%2Fsashuu6.github.io)](https://sashuu6.github.io)
-
-## Checkout my GitHub Organisations
-
-[![Sashwat's DevOps Projects](https://img.shields.io/website?label=sashwat-project-devops&style=for-the-badge&url=https%3A%2F%2Fgithub.com/sashwat-project-devops)](https://github.com/sashwat-project-devops)
-[![Sashwat's Hardware Projects](https://img.shields.io/website?label=sashwat-project-hardware&style=for-the-badge&url=https%3A%2F%2Fgithub.com/sashwat-project-hardware)](https://github.com/sashwat-project-hardware)
-[![Sashwat's Software Projects](https://img.shields.io/website?label=sashwat-project-software&style=for-the-badge&url=https%3A%2F%2Fgithub.com/sashwat-project-software)](https://github.com/sashwat-project-software)
-
-</div>
-
-<h2 align="center"> I'm working as Silicon Design Engineer at AMD Inc. </h2>
-
-<h2 align="center"> Please reach me at.. </h2>
 <p align="center">
     <a href="mailto:hi@sashwat.in">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -41,6 +31,24 @@
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Sashwat's Instagram Profile" />
     </a>
 </p>
+
+[![Portfolio](https://img.shields.io/website?label=sashwat.in&style=for-the-badge&url=https%3A%2F%2Fsashwat.in)](https://www.sashwat.in)
+[![Blog](https://img.shields.io/website?label=blog&style=for-the-badge&url=https%3A%2F%2Fsashwat.in/blog)](https://www.sashwat.in/blog)
+[![CV](https://img.shields.io/website?label=CV&style=for-the-badge&url=https%3A%2F%2Fsashuu6.github.io/curriculum-vitae/sash-cv.pdf)](https://sashuu6.github.io/curriculum-vitae/sash-cv.pdf)
+[![Dino Game](https://img.shields.io/website?label=Game&style=for-the-badge&url=https%3A%2F%2Fsashuu6.github.io)](https://sashuu6.github.io)
+
+## Checkout my GitHub Organisations
+
+[![Sashwat's DevOps Projects](https://img.shields.io/website?label=sashwat-project-devops&style=for-the-badge&url=https%3A%2F%2Fgithub.com/sashwat-project-devops)](https://github.com/sashwat-project-devops)
+[![Sashwat's Hardware Projects](https://img.shields.io/website?label=sashwat-project-hardware&style=for-the-badge&url=https%3A%2F%2Fgithub.com/sashwat-project-hardware)](https://github.com/sashwat-project-hardware)
+[![Sashwat's Software Projects](https://img.shields.io/website?label=sashwat-project-software&style=for-the-badge&url=https%3A%2F%2Fgithub.com/sashwat-project-software)](https://github.com/sashwat-project-software)
+
+</div>
+
+<h2 align="center"> I'm working as Silicon Design Engineer at AMD Inc. </h2>
+
+<h2 align="center"> Please reach me at.. </h2>
+
 
 <div align="center">
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
