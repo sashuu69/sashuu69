@@ -1,4 +1,4 @@
-### Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">!, Nice to meet you.
+### Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Nice to meet you!
 Welcome to my GitHub profile. This is the place where I publish my OpenSource work.
 
 - 🔭 &nbsp;I’m currently working as Silicon Design Engineer at Advanced Micro Devices (AMD).
@@ -38,11 +38,16 @@ My open source contributios can be divided into mainly 3 categories. Based on th
 
 🐱 &nbsp;**My GitHub Data**
 
-- Visitor Count: <img src="https://profile-counter.glitch.me/{sashuu6}/count.svg" alt="sashuu6 :: Visitor's Count" />
-- Top Languages <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashuu6&langs_count=10&layout=compact" alt="sashuu6 :: Top Langs" />
-- Profile Stats <img alt="Sashuu6's Github Stats I" src="https://github-readme-stats.vercel.app/api?username=sashuu6&show_icons=true&hide_border=false&count_private=true" />
-- Contribution Info <img alt="Sashuu6's Github Stats II" src="https://github-readme-streak-stats.herokuapp.com/?user=sashuu6" />
-- Contribution Graph <img alt="Sashuu6's Github Stats III" src="https://activity-graph.herokuapp.com/graph?username=sashuu6&area=true&bg_color=1000000" />
+- Visitor Count<br>
+    <img src="https://profile-counter.glitch.me/{sashuu6}/count.svg" alt="sashuu6 :: Visitor's Count" />
+- Top Languages<br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashuu6&langs_count=10&layout=compact" alt="sashuu6 :: Top Langs" />
+- Profile Stats<br>
+    <img alt="Sashuu6's Github Stats I" src="https://github-readme-stats.vercel.app/api?username=sashuu6&show_icons=true&hide_border=false&count_private=true" />
+- Contribution Info<br>
+    <img alt="Sashuu6's Github Stats II" src="https://github-readme-streak-stats.herokuapp.com/?user=sashuu6" />
+- Contribution Graph<br>
+    <img alt="Sashuu6's Github Stats III" src="https://activity-graph.herokuapp.com/graph?username=sashuu6&area=true&bg_color=1000000" />
 <br><br>
 
 💫 &nbsp;**My Contributor Buddies**
