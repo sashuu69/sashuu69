@@ -6,7 +6,7 @@ Welcome to my GitHub profile. This is the place where I publish my OpenSource wo
 - 🛠 &nbsp;Most of my open source work involves Hardware & Software development and DevOps.
 - 💬 &nbsp;Ask me questions regarding Arduino, Python and Docker Compose.
 - 📫 &nbsp;Need help? Reach me at [@blackisashu](https://twitter.com/blackisashu).
-- 👨‍💻 &nbsp;Know more about myself at [Sashwat's Website](https://sashwat.in), [Sashwat's Blog](https://www.sashwat.in/blog) and [Sashwat's CV](https://sashuu6.github.io/curriculum-vitae/sash-cv.pdf).
+- 👨‍💻 &nbsp;Know more about myself through [Sashwat's Website](https://sashwat.in), [Sashwat's Blog](https://www.sashwat.in/blog) and [Sashwat's CV](https://sashuu6.github.io/curriculum-vitae/sash-cv.pdf).
 - ⚡ &nbsp;My hobbies include Swimming and billiards.
 <br><br>
 
@@ -31,9 +31,9 @@ Welcome to my GitHub profile. This is the place where I publish my OpenSource wo
 🎁 &nbsp;**My Open Source Work**
 
 My open source contributios can be divided into mainly 3 categories. Based on these categories, I created 3 different GitHub organisations to divide my work. These are as follows:-
-- 🤖 &nbsp;Hardware - [Sashwat's Hardware Projects](https://github.com/sashwat-project-hardware): [![Status](https://img.shields.io/website?label=Status&style=for-the-badge&url=https%3A%2F%2Fgithub.com/sashwat-project-hardware)](https://github.com/sashwat-project-hardware)
-- 🖥 &nbsp;Software - [Sashwat's Software Projects](https://github.com/sashwat-project-software): ![Status](https://img.shields.io/website?label=Status&style=for-the-badge&url=https%3A%2F%2Fgithub.com/sashwat-project-software)
-- ⚙️ &nbsp;DevOps - [Sashwat's DevOps Projects](https://github.com/sashwat-project-devops): [![Status](https://img.shields.io/website?label=Status&style=for-the-badge&url=https%3A%2F%2Fgithub.com/sashwat-project-devops)](https://github.com/sashwat-project-devops)
+- 🤖 &nbsp;Hardware - [Sashwat's Hardware Projects](https://github.com/sashwat-project-hardware) - [![Status](https://img.shields.io/website?label=Status&style=for-the-badge&url=https%3A%2F%2Fgithub.com/sashwat-project-hardware)](https://github.com/sashwat-project-hardware)
+- 🖥 &nbsp;Software - [Sashwat's Software Projects](https://github.com/sashwat-project-software) - ![Status](https://img.shields.io/website?label=Status&style=for-the-badge&url=https%3A%2F%2Fgithub.com/sashwat-project-software)
+- ⚙️ &nbsp;DevOps - [Sashwat's DevOps Projects](https://github.com/sashwat-project-devops) - [![Status](https://img.shields.io/website?label=Status&style=for-the-badge&url=https%3A%2F%2Fgithub.com/sashwat-project-devops)](https://github.com/sashwat-project-devops)
 <br><br>
 
 🐱 &nbsp;**My GitHub Data**
@@ -52,7 +52,11 @@ My open source contributios can be divided into mainly 3 categories. Based on th
 
 💫 &nbsp;**My Contributor Buddies**
 
-<table align="center">
+Just wanted to share and give a shout-out to my friends who have been conntributing to the open source community. 
+
+Do checkout their GitHub profiles as well!
+
+<table>
     <tr>
         <td align="center">
             <a href="https://github.com/theonlyakhil">
@@ -71,11 +75,10 @@ My open source contributios can be divided into mainly 3 categories. Based on th
     </tr>
 </table>
 
-<h2 align="center"> Checkout my latest project... </h2>
-<p align="center">
-    <b>The projects are already pinned for easy access..</b></br>
-    <img alt="Astronaut pointing downwards GIF" src="https://media.giphy.com/media/Js7cqIkpxFy0bILFFA/giphy.gif">
-</p>
+<details>
+  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+  <br/>
 
-
-<img align="center" alt="Code gif" src="assets/coding-freak.gif" width="70%" />
+<img align="right" alt="GIF" src="assets/coding-freak.gif" width="500" height="320" />
+I am a nerd and a huge Linux enthusiast, having an knowledge on working of Linux distributions and love of hardware programming. It all started with the childhood craze for electronics that lead the way in a progressive career growth in the Computer Applications field.
+</details> 
