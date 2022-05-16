@@ -9,7 +9,7 @@ Welcome to my GitHub profile. This is the place where I publish my OpenSource wo
 - 💬 &nbsp;Ask me questions regarding Arduino, Python and Docker Compose.
 - 📫 &nbsp;Need help? Reach me at [@blackisashu](https://twitter.com/blackisashu).
 - 👨‍💻 &nbsp;Know more about myself through [Sashwat's Website](https://sashwat.in), [Sashwat's Blog](https://www.sashwat.in/blog) and [Sashwat's CV](https://sashuu6.github.io/curriculum-vitae/sash-cv.pdf).
-- ⚡ &nbsp;My hobbies include Swimming and billiards.
+- ⚡ &nbsp;My hobbies include Swimming, billiards and Ham radio.
 <br><br>
 
 🔗 &nbsp;**Connect with me**
