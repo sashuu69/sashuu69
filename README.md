@@ -1,7 +1,7 @@
 ### Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, Nice to meet you!
 Welcome to my GitHub profile. This is the place where I publish my OpenSource work.
 <div align="center">
-<img alt="GIF" src="assets/coding-freak.gif" width="330" height="230" />
+<img alt="GIF" src="assets/coding-freak.gif" width="530" height="350" />
 </div>
 
 - 🔭 &nbsp;I’m currently working as Silicon Design Engineer at Advanced Micro Devices (AMD).
