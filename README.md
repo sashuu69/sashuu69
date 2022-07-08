@@ -1,13 +1,15 @@
-### Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">, Nice to meet you!
+### Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, Nice to meet you!
+
 Welcome to my GitHub profile. This is the place where I publish my OpenSource work.
+
 <div align="center">
 <img alt="GIF" src="assets/coding-freak.gif" width="530" height="350" />
 </div>
 
-- 🔭 &nbsp;I’m currently working as Silicon Design Engineer at Advanced Micro Devices (AMD).
-- 🌱 &nbsp;I’m currently learning Ansible, Docker, Kubernetes and Go lang.
+- 🔭 &nbsp;I’m currently working as Senior Engineer for LPAR as a service at IBM.
+- 🌱 &nbsp;I’m currently learning Python, Go, Docker, Kubernetes and Ansible.
 - 🛠 &nbsp;Most of my open source work involves Hardware & Software development and DevOps.
-- 💬 &nbsp;Ask me questions regarding Arduino, Python and Docker Compose.
+- 💬 &nbsp;Ask me questions regarding Arduino, Python, Go, Docker, Kubernetes and Ansible.
 - 📫 &nbsp;Need help? Reach me at [@blackisashu](https://twitter.com/blackisashu).
 - 👨‍💻 &nbsp;Know more about myself through [Sashwat's Website](https://sashwat.in), [Sashwat's Blog](https://www.sashwat.in/blog) and [Sashwat's CV](https://sashuu6.github.io/curriculum-vitae/sash-cv.pdf).
 - ⚡ &nbsp;My hobbies include Swimming, billiards and Ham radio.
