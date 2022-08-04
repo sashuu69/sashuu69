@@ -39,6 +39,7 @@ My open source contributios can be divided into mainly 3 categories. Based on th
 - 🤖 &nbsp;Hardware - [Sashwat's Hardware Projects](https://github.com/sashwat-project-hardware) - [![Status](https://img.shields.io/website?label=Status&style=for-the-badge&url=https%3A%2F%2Fgithub.com/sashwat-project-hardware)](https://github.com/sashwat-project-hardware)
 - 🖥 &nbsp;Software - [Sashwat's Software Projects](https://github.com/sashwat-project-software) - ![Status](https://img.shields.io/website?label=Status&style=for-the-badge&url=https%3A%2F%2Fgithub.com/sashwat-project-software)
 - ⚙️ &nbsp;DevOps - [Sashwat's DevOps Projects](https://github.com/sashwat-project-devops) - [![Status](https://img.shields.io/website?label=Status&style=for-the-badge&url=https%3A%2F%2Fgithub.com/sashwat-project-devops)](https://github.com/sashwat-project-devops)
+- 🌚 &nbsp;Archieved - [Sashwat's Archived Projects](https://github.com/sashwat-archived) - [![Status](https://img.shields.io/website?label=Status&style=for-the-badge&url=https%3A%2F%2Fgithub.com/sashwat-archived)](https://github.com/sashwat-archived)
 <br><br>
 
 🐱 &nbsp;**My GitHub Data**
