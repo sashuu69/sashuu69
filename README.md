@@ -37,12 +37,6 @@ Welcome to my GitHub profile. This is the place where I publish my OpenSource wo
 </a>
 <br><br>
 
-🎁 &nbsp;**My Open Source Work**
-
-My open source contributios can be divided into mainly 3 categories. Based on these categories, I created 3 different GitHub organisations to divide my work. These are as follows:-
-
-<br><br>
-
 🐱 &nbsp;**My GitHub Data**
 
 - Visitor Count<br>
