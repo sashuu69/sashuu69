@@ -6,13 +6,13 @@ Welcome to my GitHub profile. This is the place where I publish my OpenSource wo
 <img alt="GIF" src="assets/coding-freak.gif" width="530" height="350" />
 </div>
 
-- 🔭 &nbsp;I’m currently working as Senior Engineer for LPAR as a service at IBM.
-- 🌱 &nbsp;I’m currently learning Python, Go, Docker, Kubernetes and Ansible.
-- 🛠 &nbsp;Most of my open source work involves Hardware & Software development and DevOps.
-- 💬 &nbsp;Ask me questions regarding Arduino, Python, Go, Docker, Kubernetes and Ansible.
+- 🔭 &nbsp;I’m currently working as Senior Engineer at IBM ISDL.
+- 🌱 &nbsp;My work involves development in Python, Go, Shell, Docker and Kubernetes.
+- 🛠 &nbsp;My open source work involves projects related Hardware & Software and DevOps.
+- 💬 &nbsp;I am available to discuss regarding Python, Go, Docker, Kubernetes, Arduino, Raspberry Pi and EaglePCB.
 - 📫 &nbsp;Need help? Reach me at [@blackisashu](https://twitter.com/blackisashu).
-- 👨‍💻 &nbsp;Know more about myself through [Sashwat's Website](https://sashwat.in), [Sashwat's Blog](https://www.sashwat.in/blog) and [Sashwat's CV](https://sashuu6.github.io/curriculum-vitae/sash-cv.pdf).
-- ⚡ &nbsp;My hobbies include Swimming, billiards and Ham radio.
+- 👨‍💻 &nbsp;Know more about myself through [Sashwat's Website](https://sashwat.in) and [Sashwat's CV](https://sashuu6.github.io/curriculum-vitae/sash-cv.pdf).
+- ⚡ &nbsp;My hobbies include Motorcycle Rides, bicycles, Swimming, billiards and Ham radio. I am active on Instagram and Youtube as well.
 <br><br>
 
 🔗 &nbsp;**Connect with me**
@@ -31,15 +31,16 @@ Welcome to my GitHub profile. This is the place where I publish my OpenSource wo
 </a>
 <a href="https://www.instagram.com/sashuu6/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Sashwat's Instagram Profile" />
-</a><br><br>
+</a>
+<a href="https://www.youtube.com/@sashuu69">
+    <img src="https://img.shields.io/badge/Youtube-E4405F?style=for-the-badge&logo=youtube&logoColor=white" alt="Sashwat's Youtube Profile" />
+</a>
+<br><br>
 
 🎁 &nbsp;**My Open Source Work**
 
 My open source contributios can be divided into mainly 3 categories. Based on these categories, I created 3 different GitHub organisations to divide my work. These are as follows:-
-- 🤖 &nbsp;Hardware - [Sashwat's Hardware Projects](https://github.com/sashwat-project-hardware) - [![Status](https://img.shields.io/website?label=Status&style=for-the-badge&url=https%3A%2F%2Fgithub.com/sashwat-project-hardware)](https://github.com/sashwat-project-hardware)
-- 🖥 &nbsp;Software - [Sashwat's Software Projects](https://github.com/sashwat-project-software) - ![Status](https://img.shields.io/website?label=Status&style=for-the-badge&url=https%3A%2F%2Fgithub.com/sashwat-project-software)
-- ⚙️ &nbsp;DevOps - [Sashwat's DevOps Projects](https://github.com/sashwat-project-devops) - [![Status](https://img.shields.io/website?label=Status&style=for-the-badge&url=https%3A%2F%2Fgithub.com/sashwat-project-devops)](https://github.com/sashwat-project-devops)
-- 🌚 &nbsp;Archieved - [Sashwat's Archived Projects](https://github.com/sashwat-archived) - [![Status](https://img.shields.io/website?label=Status&style=for-the-badge&url=https%3A%2F%2Fgithub.com/sashwat-archived)](https://github.com/sashwat-archived)
+
 <br><br>
 
 🐱 &nbsp;**My GitHub Data**
@@ -47,36 +48,10 @@ My open source contributios can be divided into mainly 3 categories. Based on th
 - Visitor Count<br>
     <img src="https://profile-counter.glitch.me/{sashuu6}/count.svg" alt="sashuu6 :: Visitor's Count" />
 - Top Languages<br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashuu6&langs_count=10&layout=compact" alt="sashuu6 :: Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashuu69&langs_count=10&layout=compact" alt="sashuu69 :: Top Langs" />
 - Profile Stats<br>
-    <img alt="Sashuu6's Github Stats I" src="https://github-readme-stats.vercel.app/api?username=sashuu6&show_icons=true&hide_border=false&count_private=true" />
+    <img alt="Sashuu69's Github Stats I" src="https://github-readme-stats.vercel.app/api?username=sashuu69&show_icons=true&hide_border=false&count_private=true" />
 - Contribution Info<br>
-    <img alt="Sashuu6's Github Stats II" src="https://github-readme-streak-stats.herokuapp.com/?user=sashuu6" />
+    <img alt="Sashuu69's Github Stats II" src="https://github-readme-streak-stats.herokuapp.com/?user=sashuu69" />
 - Contribution Graph<br>
-    <img alt="Sashuu6's Github Stats III" src="https://activity-graph.herokuapp.com/graph?username=sashuu6&area=true&bg_color=1000000" />
-<br><br>
-
-💫 &nbsp;**My Contributor Buddies**
-
-Just wanted to share and give a shout-out to my friends who have been conntributing to the open source community. 
-
-Do checkout their GitHub profiles as well!
-
-<table>
-    <tr>
-        <td align="center">
-            <a href="https://github.com/theonlyakhil">
-                <img src="https://avatars1.githubusercontent.com/u/25252405?s=460&u=dff982fcedeedad5a382c77b19527fb1fef85db1&v=4" width="100px;" alt="Akhil A B"/>
-            </a>
-            <br />
-            <a href="https://github.com/theonlyakhil">Akhil A B</a>
-        </td>
-        <td align="center">
-            <a href="https://github.com/karuvally">
-                <img src="https://avatars3.githubusercontent.com/u/10782888?s=460&u=69ea28dff9a066f6506309973e228570b591e65f&v=4" width="100px;" alt="Aswin Babu Karuvally"/>
-            </a>
-            <br />
-            <a href="https://github.com/karuvally">Aswin Babu Karuvally</a>
-        </td>
-    </tr>
-</table>
+    <img alt="Sashuu69's Github Stats III" src="https://github-readme-activity-graph.vercel.app/graph?username=sashuu69&area=true&bg_color=1000000" />
