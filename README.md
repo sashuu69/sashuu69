@@ -11,7 +11,7 @@ Welcome to my GitHub profile. This is the place where I publish my OpenSource wo
 - 🛠 &nbsp;My open source work involves projects related Hardware & Software and DevOps.
 - 💬 &nbsp;I am available to discuss regarding Python, Go, Docker, Kubernetes, Arduino, Raspberry Pi and EaglePCB.
 - 📫 &nbsp;Need help? Reach me at [hi@sashwat.in](mailto:hi@sashwat.in).
-- 👨‍💻 &nbsp;Know more about myself through [Sashwat's Website](https://sashwat.in) and [Sashwat's CV](https://sashuu6.github.io/curriculum-vitae/sash-cv.pdf).
+- 👨‍💻 &nbsp;Know more about myself through [Sashwat's Website](https://sashwat.in) and [Sashwat's CV](https://sashuu69.github.io/curriculum-vitae/sash-cv.pdf).
 - ⚡ &nbsp;My hobbies include Motorcycle Rides, bicycles, Swimming, billiards and Ham radio. I am active on Instagram and Youtube as well.
 <br><br>
 
@@ -23,10 +23,10 @@ Welcome to my GitHub profile. This is the place where I publish my OpenSource wo
 <a href="https://in.linkedin.com/in/sashwatk">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sashwat's LinkedIn Profile" />
 </a>
-<a href="https://www.facebook.com/sashuu6">
+<a href="https://www.facebook.com/sashuu69">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Sashwat's Facebook Profile" />
 </a>
-<a href="https://www.instagram.com/sashuu6/">
+<a href="https://www.instagram.com/sashuu69/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Sashwat's Instagram Profile" />
 </a>
 <a href="https://www.youtube.com/@sashuu69">
