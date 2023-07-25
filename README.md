@@ -1,18 +1,18 @@
 ### Hello There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, Nice to meet you!
 
-Welcome to my GitHub profile. This is the place where I publish my OpenSource work.
+Welcome to my GitHub profile. I publish my Open Source work here.
 
 <div align="center">
 <img alt="GIF" src="assets/coding-freak.gif" width="530" height="350" />
 </div>
 
 - 🔭 &nbsp;I’m currently working as Senior Engineer at IBM ISDL.
-- 🌱 &nbsp;My work involves development in Python, Go, Shell, Docker and Kubernetes.
+- 🌱 &nbsp;My work involves development in Go, Python, Linux Kernel, Docker and Kubernetes.
 - 🛠 &nbsp;My open source work involves projects related Hardware & Software and DevOps.
-- 💬 &nbsp;I am available to discuss regarding Python, Go, Docker, Kubernetes, Arduino, Raspberry Pi and EaglePCB.
+- 💬 &nbsp;I am available to discuss regarding Linux Kernel, Python, Go, Docker, Kubernetes, Arduino, Raspberry Pi and EaglePCB.
 - 📫 &nbsp;Need help? Reach me at [hi@sashwat.in](mailto:hi@sashwat.in).
-- 👨‍💻 &nbsp;Know more about myself through [Sashwat's Website](https://sashwat.in) and [Sashwat's CV](https://sashuu69.github.io/curriculum-vitae/sash-cv.pdf).
-- ⚡ &nbsp;My hobbies include Motorcycle Rides, bicycles, Swimming, billiards and Ham radio. I am active on Instagram and Youtube as well.
+- 👨‍💻 &nbsp;Know more about myself through <a href="https://sashwat.in" target="_blank">Sashwat's Website</a> and <a href="https://sashuu69.github.io/curriculum-vitae/sash-cv.pdf" target="_blank">Sashwat's CV</a>.
+- ⚡ &nbsp;My hobbies include going on Motorcycle Rides and bicycles. I am also into Swimming, billiards and working on Ham radio.
 <br><br>
 
 🔗 &nbsp;**Connect with me**
