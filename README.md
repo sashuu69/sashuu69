@@ -36,10 +36,19 @@ Welcome to my GitHub profile. I publish my Open Source work here.
 
 🐱 &nbsp;**My GitHub Data**
 
-<table style="border: none!important;>
-<tr>
-<td><img alt="Sashuu69's Github Stats I" src="https://github-readme-stats.vercel.app/api?username=sashuu69&show_icons=true&hide_border=false&count_private=true" /></td>
-<td><img alt="Sashuu69's Github Stats II" src="https://github-readme-streak-stats.herokuapp.com/?user=sashuu69" /></td>
-</tr>
+<table>
+    <tr>
+        <td>
+            <img alt="Sashuu69's Github Stats I" src="https://github-readme-stats.vercel.app/api?username=sashuu69&show_icons=true&hide_border=false&count_private=true" />
+        </td>
+        <td>
+            <img alt="Sashuu69's Github Stats II" src="https://github-readme-streak-stats.herokuapp.com/?user=sashuu69" />
+        </td>
+    </tr>
 </table>
  
+🤝 &nbsp;**Support Me**
+
+<a href="https://www.buymeacoffee.com/sashuu69" target="_blank" rel="noreferrer nofollow">
+    <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
+</a>
