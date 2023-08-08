@@ -36,4 +36,10 @@ Welcome to my GitHub profile. I publish my Open Source work here.
 
 🐱 &nbsp;**My GitHub Data**
 
-<img alt="Sashuu69's Github Stats I" src="https://github-readme-stats.vercel.app/api?username=sashuu69&show_icons=true&hide_border=false&count_private=true" /> <img alt="Sashuu69's Github Stats II" src="https://github-readme-streak-stats.herokuapp.com/?user=sashuu69" />
+<table>
+<tr>
+<td><img alt="Sashuu69's Github Stats I" src="https://github-readme-stats.vercel.app/api?username=sashuu69&show_icons=true&hide_border=false&count_private=true" /></td>
+<td><img alt="Sashuu69's Github Stats II" src="https://github-readme-streak-stats.herokuapp.com/?user=sashuu69" /></td>
+</tr>
+</table>
+ 
