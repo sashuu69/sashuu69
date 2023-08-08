@@ -36,13 +36,19 @@ Welcome to my GitHub profile. I publish my Open Source work here.
 
 🐱 &nbsp;**My GitHub Data**
 
-- Visitor Count<br>
-    <img src="https://profile-counter.glitch.me/{sashuu6}/count.svg" alt="sashuu6 :: Visitor's Count" />
-- Top Languages<br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashuu69&langs_count=10&layout=compact" alt="sashuu69 :: Top Langs" />
-- Profile Stats<br>
-    <img alt="Sashuu69's Github Stats I" src="https://github-readme-stats.vercel.app/api?username=sashuu69&show_icons=true&hide_border=false&count_private=true" />
-- Contribution Info<br>
-    <img alt="Sashuu69's Github Stats II" src="https://github-readme-streak-stats.herokuapp.com/?user=sashuu69" />
-- Contribution Graph<br>
-    <img alt="Sashuu69's Github Stats III" src="https://github-readme-activity-graph.vercel.app/graph?username=sashuu69&area=true&bg_color=1000000" />
+<table>
+    <tr>
+        <td>
+            <img alt="Sashuu69's Github Stats I" src="https://github-readme-stats.vercel.app/api?username=sashuu69&show_icons=true&hide_border=false&count_private=true" />
+        </td>
+        <td>
+            <img alt="Sashuu69's Github Stats II" src="https://github-readme-streak-stats.herokuapp.com/?user=sashuu69" />
+        </td>
+    </tr>
+</table>
+ 
+🤝 &nbsp;**Support Me**
+
+<a href="https://www.buymeacoffee.com/sashuu69" target="_blank" rel="noreferrer nofollow">
+    <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
+</a>
