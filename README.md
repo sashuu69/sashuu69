@@ -20,16 +20,16 @@ Welcome to my GitHub profile. I publish my Open Source work here.
 <a href="mailto:hi@sashwat.in">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://in.linkedin.com/in/sashwatk">
+<a href="https://sashwat.in/linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sashwat's LinkedIn Profile" />
 </a>
-<a href="https://www.facebook.com/sashuu69">
+<a href="https://sashwat.in/facebook">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Sashwat's Facebook Profile" />
 </a>
-<a href="https://www.instagram.com/sashuu69/">
+<a href="https://sashwat.in/instagram">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Sashwat's Instagram Profile" />
 </a>
-<a href="https://www.youtube.com/@sashuu69">
+<a href="https://sashwat.in/youtube">
     <img src="https://img.shields.io/badge/Youtube-E4405F?style=for-the-badge&logo=youtube&logoColor=white" alt="Sashwat's Youtube Profile" />
 </a>
 <br><br>
