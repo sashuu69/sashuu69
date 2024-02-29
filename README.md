@@ -13,6 +13,8 @@ Welcome to my GitHub profile. I publish my Open Source work here.
 - 📫 &nbsp;Need help? Reach me at [hi@sashwat.in](mailto:hi@sashwat.in).
 - 👨‍💻 &nbsp;Know more about myself through <a href="https://sashwat.in" target="_blank">Sashwat's Website</a> and <a href="https://sashuu69.github.io/curriculum-vitae/sash-cv.pdf" target="_blank">Sashwat's CV</a>.
 - ⚡ &nbsp;My hobbies include going on Motorcycle Rides and bicycles. I am also into Swimming, billiards and working on Ham radio.
+- Other GitHub accounts:-
+  - [IBM / Sashwat-K](https://github.com/Sashwat-K)
 <br><br>
 
 🔗 &nbsp;**Connect with me**
