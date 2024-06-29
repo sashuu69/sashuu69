@@ -7,12 +7,12 @@ Welcome to my GitHub profile. I publish my Open Source work here.
 </div>
 
 - 🔭 &nbsp;I’m currently working as Senior Engineer at IBM ISDL.
-- 🌱 &nbsp;My work involves development in Go, Python, Linux Kernel, Docker and Kubernetes.
-- 🛠 &nbsp;My open source work involves projects related Hardware & Software and DevOps.
-- 💬 &nbsp;I am available to discuss regarding Linux Kernel, Python, Go, Docker, Kubernetes, Arduino, Raspberry Pi and EaglePCB.
+- 🌱 &nbsp;My work involves development in Go, Python, Docker, Ansible and Terraform.
+- 🛠 &nbsp;My Open Source work involves projects related Hardware & Software and DevOps.
+- 💬 &nbsp;I am available to discuss regarding Linux Kernel, Go, Python, Docker, Ansible, Arduino, Raspberry Pi and EaglePCB.
 - 📫 &nbsp;Need help? Reach me at [hi@sashwat.in](mailto:hi@sashwat.in).
 - 👨‍💻 &nbsp;Know more about myself through <a href="https://sashwat.in" target="_blank">Sashwat's Website</a> and <a href="https://sashuu69.github.io/curriculum-vitae/sash-cv.pdf" target="_blank">Sashwat's CV</a>.
-- ⚡ &nbsp;My hobbies include going on Motorcycle Rides and bicycles. I am also into Swimming, billiards and working on Ham radio.
+- ⚡ &nbsp;My hobbies include going on Motorcycle Rides and bicycles. I am also into Swimming and working on Ham radio.
 - Other GitHub accounts:-
   - [IBM / Sashwat-K](https://github.com/Sashwat-K)
 <br><br>
@@ -51,6 +51,6 @@ Welcome to my GitHub profile. I publish my Open Source work here.
  
 🤝 &nbsp;**Support Me**
 
-<a href="https://www.buymeacoffee.com/sashuu69" target="_blank" rel="noreferrer nofollow">
-    <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
-</a>
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/sashuu69)
+[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dsashuu69%26type%3Dpatrons&style=for-the-badge)](https://patreon.com/sashuu69)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/sashwatk)
