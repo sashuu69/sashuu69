@@ -1,173 +1,118 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Sashwat%20Karuvayil&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20design%2C%20build%2C%20and%20ship%20products%20end-to-end.&descAlignY=58&descSize=18" alt="header" />
+# Sashwat Karuvayil
 
-<a href="https://github.com/sashuu69">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Sashwat+%F0%9F%91%8B;Senior+Engineer+%40+IBM+ISDL+%E2%80%A2+Bengaluru;Confidential+Computing+on+LinuxONE;10%2B+years+shipping+products+end-to-end." alt="Typing animation" />
+**Software engineer and builder working across confidential computing, Linux automation, infrastructure, and product engineering.**
+
+<a href="https://sashwat.in">
+  <img alt="Website" src="https://img.shields.io/badge/sashwat.in-0d1117?style=flat-square&logo=googlechrome&logoColor=white">
 </a>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=sashuu69&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/sashuu69?tab=followers">
-    <img src="https://img.shields.io/github/followers/sashuu69?label=Followers&style=flat&color=0e75b6" alt="followers" />
-  </a>
-</p>
-
-</div>
-
----
-
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
-
-<img align="right" alt="coding" src="assets/coding-freak.gif" width="380" />
-
-- 🔭 &nbsp;**Senior Engineer @ IBM India Systems Development Lab** *(Bengaluru)*
-- 🛡️ &nbsp;Building **OS & open-source tooling for IBM Confidential Computing on LinuxONE**
-- 🚀 &nbsp;**10+ years** shipping end-to-end products • **5+ years** in enterprise engineering
-- 🌱 &nbsp;Daily driver: **Go, Python, Docker, Kubernetes, Terraform, Ansible**
-- 💬 &nbsp;Ask me about **Linux Kernel, Backend Systems, DevOps, Arduino, Raspberry Pi, EaglePCB**
-- 📫 &nbsp;Reach me at **[hi@sashwat.in](mailto:hi@sashwat.in)**
-- 👨‍💻 &nbsp;More on my **[Website](https://sashwat.in)** & **[CV](https://sashuu69.github.io/curriculum-vitae/sash-cv.pdf)**
-- ⚡ &nbsp;Off-keyboard: **Motorcycle rides, cycling, swimming & ham radio**
-- 🏢 &nbsp;Work account: **[Sashwat-K](https://github.com/Sashwat-K)** *(IBM)*
-
-<br clear="right" />
-
----
-
-### 🧰 &nbsp;Tech Stack
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=go,python,c,cpp,bash,js,ts" />
-
-**DevOps & Cloud**
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,terraform,aws,gcp,linux,git,githubactions" />
-
-**Hardware & Tools**
-
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,vscode,vim,postman" />
-
-</div>
-
----
-
-### 🚀 &nbsp;Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🛡️ <a href="https://github.com/Sashwat-K/contract-go">contract-go</a></h4>
-      <p>Go SDK for IBM Confidential Computing — handles workload contract signing, attestation, and encryption without manual cryptography.</p>
-      <p><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Confidential_Computing-1F70C1?style=flat-square&logo=ibm&logoColor=white" /></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚙️ <a href="https://github.com/Sashwat-K/contract-cli">contract-cli</a></h4>
-      <p>CLI companion to <code>contract-go</code> for generating and managing confidential workload contracts from the terminal.</p>
-      <p><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/CLI-4EAA25?style=flat-square&logo=gnubash&logoColor=white" /></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🏗️ <a href="https://github.com/Sashwat-K/terraform-provider-hpcr">terraform-provider-hpcr</a></h4>
-      <p>Terraform provider for declarative contract generation on IBM Hyper Protect Confidential Container Runtime.</p>
-      <p><img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>💧 <a href="https://github.com/sashuu69/iot-water-level-indicator">iot-water-level-indicator</a></h4>
-      <p>End-to-end IoT system using Raspberry Pi, Arduino, Firebase, and a companion Android app.</p>
-      <p><img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" /> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /></p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h4>🌐 <a href="https://github.com/sashuu69/portfolio-website-infrastructure">portfolio-website-infrastructure</a></h4>
-      <p>Self-hosted infrastructure powering <a href="https://sashwat.in">sashwat.in</a> — provisioned with Terraform, configured with Ansible, deployed via Docker Compose.</p>
-      <p><img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" /> <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 &nbsp;GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/sashuu69">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sashuu69&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sashuu69&hide_border=true&background=0d1117&stroke=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
-</a>
-
-<a href="https://github.com/sashuu69">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashuu69&layout=compact&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
-</a>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=sashuu69&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</a>
-
-</div>
-
----
-
-### ✍️ &nbsp;Latest Writing
-
-- 📝 &nbsp;**[Automating IBM Confidential Computing Contracts](https://sashwat.in)** — How `contract-go`, `contract-cli` and the Terraform provider eliminate manual cryptography for confidential workloads on IBM Z. *(Apr 2026)*
-- 📚 &nbsp;More posts on **[sashwat.in](https://sashwat.in)**
-
----
-
-### 🌐 &nbsp;Connect With Me
-
-<div align="center">
-
 <a href="mailto:hi@sashwat.in">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <img alt="Email" src="https://img.shields.io/badge/hi%40sashwat.in-0d1117?style=flat-square&logo=gmail&logoColor=white">
 </a>
 <a href="https://sashwat.in/linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=white">
 </a>
-<a href="https://sashwat.in/youtube">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-</a>
-<a href="https://sashwat.in/instagram">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="https://sashwat.in/facebook">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-</a>
-<a href="https://sashwat.in">
-  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+<a href="https://sashuu69.github.io/curriculum-vitae/sash-cv.pdf">
+  <img alt="Resume" src="https://img.shields.io/badge/Resume-0d1117?style=flat-square&logo=readme&logoColor=white">
 </a>
 
 </div>
 
----
+```text
+Currently:   Senior Engineer at IBM India Systems Development Lab, Bengaluru
+Focus:       Confidential computing on IBM LinuxONE, OS tooling, Go SDKs, CLIs
+Usually in:  Go, Python, Linux, Docker, Kubernetes, Terraform, Ansible
+Also into:   Embedded systems, Raspberry Pi, Arduino, automation, ham radio
+Work acct:   github.com/Sashwat-K
+```
 
-### ☕ &nbsp;Support My Work
+## What I Build
+
+I like projects that start as a blank page and end as something real: a library, a CLI, a provider, an infrastructure stack, a device, or a service that can survive production use.
+
+- Confidential computing tooling for IBM LinuxONE workloads.
+- Go SDKs and CLIs that hide the boring sharp edges of cryptography-heavy workflows.
+- Terraform and Ansible automation for repeatable infrastructure.
+- Linux, backend, and DevOps systems with a bias for clear operational behavior.
+- Hardware-adjacent projects where software has to meet the physical world.
+
+## Open Source Map
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [contract-go](https://github.com/Sashwat-K/contract-go) | Go SDK for confidential workload contracts, signing, attestation, and encryption flows. | Go, IBM Confidential Computing |
+| [contract-cli](https://github.com/Sashwat-K/contract-cli) | Terminal workflow for generating and managing confidential workload contracts. | Go, CLI |
+| [terraform-provider-hpcr](https://github.com/Sashwat-K/terraform-provider-hpcr) | Terraform provider for declarative contract generation on IBM Hyper Protect Confidential Container Runtime. | Go, Terraform |
+| [portfolio-website-infrastructure](https://github.com/sashuu69/portfolio-website-infrastructure) | Self-hosted infrastructure, provisioned and configured as code. | Terraform, Ansible, Docker, Python |
+| [iot-water-level-indicator](https://github.com/sashuu69/iot-water-level-indicator) | IoT water level monitoring with a Raspberry Pi, Arduino, Firebase, and Android app. | Raspberry Pi, Arduino, Firebase |
+
+## Technical Surface Area
+
+<p>
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white">
+  <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white">
+  <img alt="IBM" src="https://img.shields.io/badge/IBM-052FAD?style=flat-square&logo=ibm&logoColor=white">
+  <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white">
+  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white">
+</p>
+
+## Field Notes
+
+I write about backend systems, Linux automation, confidential computing, and the engineering details that show up once software meets production.
+
+<!-- FIELD_NOTES:START -->
+- [Building the IBM Confidential Computing Contract Toolchain](https://sashwat.in/blog/automating-ibm-confidential-computing-contracts/) - Why we built contract-go, contract-cli, and a Terraform provider to ship confidential workloads on IBM Confidential Computing without hand-rolling crypto. _Apr 26, 2026_ `Go` `Terraform Provider` `Confidential Computing` `Open Source`
+- [Confidential Computing: Securing Data During Processing](https://sashwat.in/blog/confidential-computing-securing-data-in-use/) - Why encryption at rest and in transit aren't enough, what trusted execution environments add, and where confidential computing fits. _Apr 19, 2026_ `Confidential Computing` `Security` `Cloud`
+<!-- FIELD_NOTES:END -->
+
+[More notes on sashwat.in](https://sashwat.in/blog/)
+
+## GitHub Signal
 
 <div align="center">
 
-<a href="https://www.buymeacoffee.com/sashuu69">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me A Coffee" />
+<a href="https://github.com/sashuu69">
+  <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-sashuu69-0d1117?style=flat-square&logo=github&logoColor=white">
 </a>
-<a href="https://patreon.com/sashuu69">
-  <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon" />
+<a href="https://github.com/sashuu69?tab=repositories">
+  <img alt="Repositories" src="https://img.shields.io/badge/Repositories-0d1117?style=flat-square&logo=git&logoColor=white">
 </a>
-<a href="https://www.paypal.com/paypalme/sashwatk">
-  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
+<a href="https://github.com/sashuu69?tab=followers">
+  <img alt="Followers" src="https://img.shields.io/github/followers/sashuu69?style=flat-square&label=Followers&color=58a6ff">
 </a>
-
-</div>
+<a href="https://github.com/Sashwat-K">
+  <img alt="IBM work account" src="https://img.shields.io/badge/Work%20GitHub-Sashwat--K-0d1117?style=flat-square&logo=github&logoColor=white">
+</a>
 
 <br />
 
-<div align="center">
-  <i>⭐ From <a href="https://github.com/sashuu69">sashuu69</a> — Thanks for stopping by!</i>
+<a href="https://github.com/sashuu69?tab=repositories&q=&type=&language=go&sort=">
+  <img alt="Go repositories" src="https://img.shields.io/badge/Go-repositories-00ADD8?style=flat-square&logo=go&logoColor=white">
+</a>
+<a href="https://github.com/sashuu69?tab=repositories&q=&type=&language=python&sort=">
+  <img alt="Python repositories" src="https://img.shields.io/badge/Python-repositories-3776AB?style=flat-square&logo=python&logoColor=white">
+</a>
+<a href="https://github.com/sashuu69?tab=repositories&q=terraform&type=&language=&sort=">
+  <img alt="Terraform repositories" src="https://img.shields.io/badge/Terraform-repositories-844FBA?style=flat-square&logo=terraform&logoColor=white">
+</a>
+<a href="https://github.com/sashuu69?tab=repositories&q=linux&type=&language=&sort=">
+  <img alt="Linux repositories" src="https://img.shields.io/badge/Linux-repositories-FCC624?style=flat-square&logo=linux&logoColor=111111">
+</a>
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="footer" />
+---
+
+<div align="center">
+
+**Open to open source collaboration, selected consulting, and technical conversations.**
+
+[Website](https://sashwat.in) / [Email](mailto:hi@sashwat.in) / [LinkedIn](https://sashwat.in/linkedin) / [Resume](https://sashuu69.github.io/curriculum-vitae/sash-cv.pdf)
+
+</div>
